@@ -1,4 +1,4 @@
-#Advanced Web Programing - Assignment 2 - SFWRTECH4AI3 - McMaster University - Software Engineering
+#Advanced Web Programing - Assignment 2 - SFWRTECH4WP3 - McMaster University - Software Engineering
 
 -  Enhance the "Calculator" page from a previous assignment with a mortgage payment calculator and form validation using JavaScript.
 -  Style form inputs and buttons with Bootstrap, ensuring "Calculator" is the active page.
